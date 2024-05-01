@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.section-1{
+    background-color: #e3f2fd;
+}
+
+.navbar img{
+    width: 55px;
+}
+
+.carousel-item img{
+    height: 600px !important;
+}
+
+.extra{
+    position: relative;
+    height: 200px;
+    margin-top: 10px;
+    overflow: auto;
+}
+
